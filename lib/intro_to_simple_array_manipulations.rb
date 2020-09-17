@@ -5,7 +5,7 @@ def using_concat (my_favorite_things,more_favs)
   
   
   def using_insert (array , element)
-    array[4].insert(element)
+    array.insery(4, element)
 end
 
   
